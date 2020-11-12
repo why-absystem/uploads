@@ -1,0 +1,19 @@
+{
+    "name": "wahyu/uploads",
+    "type": "library",
+	"description": "Uploads Images PHP Converter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wahyu Hidayat",
+            "email": "hidayatwahyu87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"W\\": "src/"
+		}
+	},
+	"require": {}
+}
