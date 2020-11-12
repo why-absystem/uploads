@@ -1,10 +1,10 @@
-# MAPS
+# Uploads
 
-Class Google Maps
+Uploads Images PHP Converter
 
 #### INSTALLATION :fire:
 
-`composer require wahyu/maps`
+`composer require wahyu/uploads`
 
 #### REQUIREMENTS :warning: 
 
